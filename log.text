@@ -1,0 +1,5 @@
+train 
+station -orgin -destination 
+time - arrival -depature 
+demand 
+create_at
